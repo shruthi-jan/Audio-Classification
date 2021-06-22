@@ -1,4 +1,4 @@
-# Audio-Classification
+# Classification of Audio using CNNs in TensorFlow
 The aim of the project is to classify audio as either music or speech.  
 The Dataset used is the gtzan dataset : The Dataset contains 128 monophonic audio files ( 64 each of speech and audio), each file is 30s long. The sampling rate is 22050Hz.  
 
